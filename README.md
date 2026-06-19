@@ -36,7 +36,6 @@ vehicle-damage-classifier/
 └── README.md
 ```
 
-
 ## Model
 
 ### Architecture
